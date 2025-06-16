@@ -1,0 +1,9 @@
+[general]
+name=Qgis Road Cost Plugin
+qgisMinimumVersion=3.0
+author= Noxfort (Gabriel Moraes)
+email=gmateusmoraes@gmail.com
+version=1.0
+description=Calcula o custo total de construção de estradas baseado na camada de linhas.
+category=Analysis
+icon=resources/logo_32x32.png
